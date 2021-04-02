@@ -17,4 +17,7 @@ html{
 }
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
+    width: 90%;
+    background-color: var(--light-grayish-blue);
+    margin: 5rem auto;
 }
