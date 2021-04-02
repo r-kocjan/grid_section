@@ -21,3 +21,13 @@ body{
     background-color: var(--light-grayish-blue);
     margin: 5rem auto;
 }
+.card{
+    padding: 2rem 3rem;
+}
+.user{
+    display: flex;
+}
+
+.card-1{
+    background-color: var(--moderate-violet);
+}
